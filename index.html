@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- metas -->
+    <meta charset="utf-8" />
+    <meta name="author" content="Website Design Templates" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="keywords" content="CCTV & Security HTML Template" />
+    <meta name="description" content="Monity - CCTV & Security HTML Template" />
+
+    <!-- title  -->
+    <title>Vidhyutam Automation</title>
+
+    <!-- favicon -->
+    <!-- <link rel="shortcut icon" href="img/logos/favicon.png" />
+    <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="img/logos/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="img/logos/apple-touch-icon-114x114.png" /> -->
+
+    <!-- plugins -->
+    <link rel="stylesheet" href="css/plugins.css">
+
+    <!-- search css -->
+    <link rel="stylesheet" href="search/search.css">
+
+    <!-- quform css -->
+    <link rel="stylesheet" href="quform/css/base.css">
+
+    <!-- theme core css -->
+    <link href="css/styles.css" rel="stylesheet">
+
+</head>
+
+<body>
+    
+    <!-- PAGE LOADING
+    ================================================== -->
+    <div id="preloader"></div>
+
+    <!-- MAIN WRAPPER
+    ================================================== -->
+    <div class="main-wrapper">
+
+        <!-- HEADER
+        ================================================== -->
+        <header class="header-style1 menu_area-light">
+
+            <div class="navbar-default border-bottom border-color-light-white">
+
+                <!-- start top search -->
+                <div class="top-search bg-secondary">
+                    <div class="container-fluid px-sm-1-6 px-lg-2-9">
+                        <form class="search-form" action="https://monityhtml.websitelayout.net/search.html" method="GET" accept-charset="utf-8">
+                            <div class="input-group">
+                                <span class="input-group-addon cursor-pointer">
+                                    <button class="search-form_submit fas fa-search text-white" type="submit"></button>
+                                </span>
+                                <input type="text" class="search-form_input form-control" name="s" autocomplete="off" placeholder="Type & hit enter...">
+                                <span class="input-group-addon close-search mt-1"><i class="fas fa-times"></i></span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!-- end top search -->
+
+                <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
+                    <div class="row align-items-center">
+                        <div class="col-12 col-lg-12">
+                            <div class="menu_area alt-font">
+                                <nav class="navbar navbar-expand-lg navbar-light p-0">
+                                    <div class="navbar-header navbar-header-custom">
+                                        <!-- start logo -->
+                                        <a href="index.php" class="navbar-brand"><img id="logo" src="img/logos/logo-inner.png" alt="logo" /></a>
+                                        <!-- end logo -->
+                                    </div>
+
+                                    <div class="navbar-toggler bg-secondary"></div>
+
+                                    <!-- menu area -->
+                                    <ul class="navbar-nav align-items-lg-center ms-auto" id="nav" style="display: none;">
+                                        <li>
+                                            <a href="index.php">Home</a>
+                                            <!-- <a href="">Home</a>
+                                            <ul>
+                                                <li><a href="index.php">Home 01</a></li>
+                                                <li><a href="index-02.html">Home 02</a></li>
+                                                <li><a href="index-03.html">Home 03</a></li>
+                                                <li><a href="index-04.html">Home 04 - Dark Menu</a></li>
+                                                <li><a href="index-05.html">Home 05</a></li>
+                                                <li><a href="index-06.html">Home 06</a></li>
+                                                <li><a href="index-07.html">Home 07</a></li>
+                                            </ul> -->
+                                        </li>
+                                        <li><a href="javascript:void(0);">About Us</a></li>
+                                        <li><a href="javascript:void(0);">Products</a>
+                                            
+                                        </li>
+                                        <li><a href="javascript:void(0);">Education</a></li>
+                                        <li><a href="javascript:void(0);">Support</a></li>
+                                        
+                                    </ul>
+                                    <!-- end menu area -->
+
+                                    <!-- start attribute navigation -->
+                                    <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
+                                        <ul>
+                                            <!-- <li class="search"><a href="#!"><i class="fas fa-search"></i></a></li> -->
+                                            <li class="d-none d-xl-inline-block"><a href="javascript:void(0);" class="butn text-white md"><span>Contact Us</span></a></li>
+                                        </ul>
+                                    </div>
+                                    <!-- end attribute navigation -->
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+        <script>
+            new WOW().init();
+        </script>
+    <!-- Bus Occupancy Sensor Details
+    ================================================= -->
+     <!-- Section 1: Full Width Image with Text Overlay -->
+     <section class=" pt-0 pb-0 position-relative text-white text-center">
+        <img src="img/product1.jpg" class="img-fluid wow animate__zoomIn w-100" alt="Product Image">
+        <div class="position-absolute top-50 start-50 translate-middle wow animate__fadeIn">
+            <h1 class="text-white wow animate__zoomIn">Bus Occupancy Sensor</h1>
+            <p class="wow animate__fadeInLeft">Advanced automation device for real-time passenger monitoring.</p>
+        </div>
+    </section>
+    
+    <!-- Section 2: Full Width Image -->
+    <section class="pt-0 pb-0 ">
+        <img src="img/product.png" class="img-fluid w-100 wow animate__zoomIn" alt="Product Image">
+    </section>
+    
+    <!-- Section 3: 50% Image - 50% Content -->
+    <section class=" pt-0 pb-0 container my-5">
+        <div class="row align-items-center">
+            <div class="col-md-6 wow animate__fadeInLeft">
+                <img src="img/product2.png" class="img-fluid" alt="Product Image">
+            </div>
+            <div class="col-md-6 wow animate__fadeInRight">
+                <h2>Key Features</h2>
+                <p>Our Bus Occupancy Sensor is designed to revolutionize public transportation by providing accurate, real-time passenger counting. By leveraging advanced AI and IoT technology, the system ensures efficient fleet management, reduces operational costs, and enhances the overall commuter experience. With precise data on bus occupancy levels, transit agencies can optimize their resources, adjust schedules dynamically, and prevent overcrowding, leading to a smoother and more comfortable journey for passengers.<br>One of the key advantages of our system is its ability to provide live updates on passenger occupancy. The AI-powered sensors accurately detect individuals entering and exiting the vehicle, eliminating the need for manual counting or estimations. This data is transmitted to a centralized platform, allowing fleet operators to monitor bus occupancy in real time. With this information, transportation authorities can make data-driven decisions, such as rerouting underutilized buses to high-demand areas, reducing delays, and improving overall service reliability.
+                </p>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Section 4: Table Format -->
+    <section class="bg-dark my-5 wow animate__fadeInUp" style="padding:50px;">
+        <h2 class="text-center text-white">Technical Specifications</h2>
+        <table class="table table-striped mt-3">
+            <tr><th>Feature</th><th>Details</th></tr>
+            <tr><td>Technology</td><td>AI-Powered Infrared & Ultrasonic Sensors</td></tr>
+            <tr><td>Accuracy</td><td>Up to 98%</td></tr>
+            <tr><td>Connectivity</td><td>Wi-Fi, Bluetooth, LTE</td></tr>
+            <tr><th>Power Consumption</th><th>Low Energy Design</th></tr>
+            <tr><td>Installation</td><td>Easy Mounting on Bus Entry/Exit</td></tr>
+            <tr><td>Data Access</td><td>Cloud & Local Storage Support</td></tr>
+        </table>
+    </section>
+    
+    <!-- More Sections: Different Layouts -->
+    <section class=" pt-0 pb-0 container my-5 text-center wow animate__fadeIn">
+        <h2>Why Choose Our Bus Occupancy Sensor?</h2>
+        <p>Optimize passenger flow, reduce congestion, and improve public transport efficiency with our advanced automation technology.</p>
+    </section>
+    
+    <section class="pt-0 pb-0 container my-5 wow animate__flipInX">
+        <div class="row">
+            <div class="col-md-4">
+                <h3>High Accuracy</h3>
+                <p>Utilizes AI-powered sensor fusion for precise passenger counting.</p>
+            </div>
+            <div class="col-md-4">
+                <h3>Seamless Integration</h3>
+                <p>Compatible with existing transport management systems.</p>
+            </div>
+            <div class="col-md-4">
+                <h3>Energy Efficient</h3>
+                <p>Consumes minimal power, ensuring long-term sustainability.</p>
+            </div>
+        </div>
+    </section>
+    
+    <section class="pt-0 pb-0 bg-light p-5 wow animate__lightSpeedInLeft">
+        <h2 class="text-center">Customer Feedback</h2>
+        <p class="text-center">Trusted by transit authorities and transport operators worldwide.</p>
+    </section>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+  <!-- FOOTER
+        ================================================== -->
+        <footer class="bg-dark">
+            <div class="container py-6 py-lg-8">
+                <div class="row mt-n2-9">
+                    <div class="col-md-6 col-lg-5 mt-2-9">
+                        <div class="footer-logo mb-3">
+                            <a href="index.php"><img src="img/logos/logo.png" alt="Footer Logo"></a>
+                        </div>
+                        <p class="text-white mb-1-9 w-lg-75 font-weight-400 display-29 opacity8">Compatible with existing transport management systems. Compatible with existing transport management systems.</p>
+                        <ul class="social-icon-style1">
+                            <li><a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://twitter.com/" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
+                            <li><a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                            <li><a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="col-md-6 col-lg-3 mt-2-9">
+                        <h3 class="text-white h5 mb-1-9 no-letter-spacing">Quick Links</h3>
+                        <ul>
+                            <li class="text-white">Home</li>
+                            <li class="text-white">About Us </li>
+                            <li class="text-white">Products</li>
+                            <li class="text-white">Eductaion</li>
+                            <li class="text-white">Contact Us</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="col-md-6 col-lg-3 mt-2-9 offset-lg-1">
+                        <h3 class="text-white h5 mb-1-9 no-letter-spacing">Contacts</h3>
+                        <div class="d-flex mb-1-9">
+                            <div class="flex-shrink-0"><img src="img/icons/icon-phone.png" alt="..."></div>
+                            <div class="flex-grow-1 ms-3">
+                                <h4 class="mb-1 h5 text-white">Contact Us</h4>
+                                <p class="mb-0 text-white">+91 78029 05599</p>
+                            </div>
+                        </div>
+                        <div class="d-flex">
+                            <div class="flex-shrink-0"><img src="img/icons/icon-mail.png" alt="..."></div>
+                            <div class="flex-grow-1 ms-3">
+                                <h4 class="mb-1 h5 text-white">Mail Us</h4>
+                                <p class="mb-0 text-white">info@vidhyutam.com</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </footer>
+    </div>
+
+    
+    <!-- SCROLL TO TOP
+    ================================================== -->
+    <!-- <div class="scroll-top-percentage"><span id="scroll-value"></span></div> -->
+
+    <!-- all js include start -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+
+    <!-- popper js -->
+    <script src="js/popper.min.js"></script>
+
+    <!-- bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- jquery -->
+    <script src="js/core.min.js"></script>
+
+    <!-- search -->
+    <script src="search/search.js"></script>
+
+    <!-- custom scripts -->
+    <script src="js/main.js"></script>
+
+    <!-- form plugins js -->
+    <script src="quform/js/plugins.js"></script>
+
+    <!-- form scripts js -->
+    <script src="quform/js/scripts.js"></script>
+
+    <!-- all js include end -->
+
+</body>
+
+</html>
